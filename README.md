@@ -11,12 +11,11 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package will help one fetch data from weatherapi.org in a structured format, just by providing your api key 
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+One can fetch Weather of any location by passing any parameter from varied number of options avaiable
 
 ## Getting started
 
